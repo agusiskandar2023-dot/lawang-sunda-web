@@ -1,0 +1,650 @@
+{
+ "items": [
+  {
+   "id": "sangkuriang",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Sangkuriang",
+   "summary": "Legenda seorang pemuda yang tanpa sadar jatuh hati pada ibunya sendiri, dan syarat mustahil yang melahirkan Gunung Tangkuban Parahu.",
+   "region": "Bandung",
+   "tags": [
+    "legenda",
+    "Tangkuban Parahu",
+    "Dayang Sumbi",
+    "Citarum",
+    "danau Bandung"
+   ],
+   "file": "cerita/sangkuriang.txt",
+   "cover": "#1F4D3A",
+   "accent": "#E9C46A",
+   "motif": "perahu",
+   "featured": true,
+   "notes": "Cerita ini dituturkan dalam beberapa versi. Asal-usul Si Tumang dan akhir kisah Dayang Sumbi berbeda menurut daerah.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    },
+    {
+     "title": "Gunung Tangkuban Parahu dan cekungan Bandung",
+     "note": "bentang alam yang dikaitkan dengan legenda ini"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "cerita/sangkuriang.su.txt",
+   "title_su": "Sangkuriang",
+   "summary_su": "Dongéng hiji pamuda nu teu sadar kapincut ku indungna sorangan, jeung sarat pamohalan nu ngalahirkeun Gunung Tangkuban Parahu.",
+   "scene": "sangkuriang-moro"
+  },
+  {
+   "id": "lutung-kasarung",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Lutung Kasarung",
+   "summary": "Purbasari diusir dari istana oleh kakaknya yang iri, lalu bersahabat dengan seekor lutung yang menyimpan rahasia dari kahyangan.",
+   "region": "Pasir Batang",
+   "tags": [
+    "carita pantun",
+    "Purbasari",
+    "Purbararang",
+    "Sunan Ambu",
+    "Guruminda"
+   ],
+   "file": "cerita/lutung-kasarung.txt",
+   "cover": "#7E3519",
+   "accent": "#E9C46A",
+   "motif": "hutan",
+   "featured": true,
+   "notes": "Aslinya dibawakan sebagai carita pantun oleh juru pantun dengan iringan kecapi. Nama tokoh dan urutan kejadian bisa berbeda antarversi.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    },
+    {
+     "title": "Carita pantun Lutung Kasarung",
+     "note": "bentuk asli cerita dalam sastra lisan Sunda"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "cerita/lutung-kasarung.su.txt",
+   "title_su": "Lutung Kasarung",
+   "summary_su": "Purbasari diusir ti karaton ku lanceukna nu sirik, tuluy sosobatan jeung hiji lutung nu nyimpen rusiah ti kahyangan.",
+   "scene": "telaga"
+  },
+  {
+   "id": "ciung-wanara",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Ciung Wanara",
+   "summary": "Kisah lengkap Galuh: raja palsu, bayi yang ditukar dan dihanyutkan di Citanduy, ayam jago dari Gunung Padang, sampai dua saudara yang berbagi kerajaan.",
+   "region": "Galuh, Ciamis",
+   "tags": [
+    "Galuh",
+    "Citanduy",
+    "Karangkamulyan",
+    "Ki Lengser",
+    "Cipamali",
+    "bacaan panjang"
+   ],
+   "file": "cerita/ciung-wanara.txt",
+   "cover": "#2F6A50",
+   "accent": "#E9C46A",
+   "motif": "gerbang",
+   "featured": true,
+   "version": 2,
+   "notes": "Nama raja dan permaisuri berbeda di beberapa versi. Situs Karangkamulyan di Ciamis dikaitkan masyarakat dengan kisah ini.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    },
+    {
+     "title": "Situs Karangkamulyan, Ciamis",
+     "note": "situs yang dikaitkan dengan legenda Galuh"
+    }
+   ],
+   "updated": "2026-11-01",
+   "fileSu": "cerita/ciung-wanara.su.txt",
+   "title_su": "Ciung Wanara",
+   "summary_su": "Carita lengkep Galuh: raja palsu, orok nu ditukeuran jeung dipalidkeun di Citanduy, hayam jago ti Gunung Padang, nepi ka dua dulur nu babagi karajaan.",
+   "scene": "peti-palid"
+  },
+  {
+   "id": "si-kabayan",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Si Kabayan",
+   "summary": "Kumpulan kisah jenaka tentang Kabayan yang tampak malas dan lugu, tetapi sering punya akal yang tak terduga.",
+   "region": "Tatar Sunda",
+   "tags": [
+    "jenaka",
+    "Nyi Iteung",
+    "mertua",
+    "nangka",
+    "belut"
+   ],
+   "file": "cerita/si-kabayan.txt",
+   "cover": "#9A4422",
+   "accent": "#E9C46A",
+   "motif": "jenaka",
+   "featured": true,
+   "notes": "Cerita Kabayan berkembang bebas dari mulut ke mulut. Kejadian dalam bacaan ini disusun ulang dari pola cerita yang umum dikenal.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "cerita/si-kabayan.su.txt",
+   "title_su": "Si Kabayan",
+   "summary_su": "Kumpulan carita lucu ngeunaan Kabayan nu katémbong kedul jeung polos, tapi sok boga akal nu teu disangka-sangka.",
+   "scene": "nangka-palid"
+  },
+  {
+   "id": "situ-bagendit",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Situ Bagendit",
+   "summary": "Nyi Endit yang kaya dan kikir mengusir seorang pengemis tua dari pestanya. Tongkat sang pengemis mengubah desa itu menjadi danau.",
+   "region": "Garut",
+   "tags": [
+    "legenda",
+    "danau",
+    "Nyi Endit",
+    "Banyuresmi"
+   ],
+   "file": "cerita/situ-bagendit.txt",
+   "cover": "#163828",
+   "accent": "#C9A227",
+   "motif": "danau",
+   "featured": false,
+   "notes": "Sebagian versi menyebut Nyi Endit menjelma menjadi lintah penghuni danau.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    },
+    {
+     "title": "Situ Bagendit, Banyuresmi, Garut",
+     "note": "danau yang dikaitkan dengan legenda ini"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "cerita/situ-bagendit.su.txt",
+   "title_su": "Situ Bagendit",
+   "summary_su": "Nyi Endit nu beunghar tur medit ngusir pengemis kolot ti péstana. Iteuk pengemis éta ngarobah désa jadi situ.",
+   "scene": "iteuk"
+  },
+  {
+   "id": "kuya-jeung-monyet",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Sakadang Kuya jeung Sakadang Monyet",
+   "summary": "Kura-kura yang sabar dan monyet yang serakah berbagi sebatang pohon pisang. Siapa yang akhirnya menikmati buahnya?",
+   "region": "Tatar Sunda",
+   "tags": [
+    "dongeng sato",
+    "fabel",
+    "kura-kura",
+    "monyet",
+    "pisang",
+    "anak"
+   ],
+   "file": "cerita/kuya-jeung-monyet.txt",
+   "cover": "#4F6B2F",
+   "accent": "#E9C46A",
+   "motif": "hutan",
+   "featured": true,
+   "notes": "Dongeng sato (cerita binatang) dengan banyak versi. Cerita serupa juga dikenal di daerah lain di Asia Tenggara.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "cerita/kuya-jeung-monyet.su.txt",
+   "title_su": "Sakadang Kuya jeung Sakadang Monyet",
+   "summary_su": "Kuya nu sabar jeung monyét nu sarakah babagi hiji tangkal cau. Saha nu ahirna ngararasakeun buahna?",
+   "scene": "monyet-dahar"
+  },
+  {
+   "id": "tarumanagara",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Tarumanagara, Kerajaan Tertua di Tatar Sunda",
+   "summary": "Kerajaan abad ke-5 yang dikenal lewat prasasti batu berhuruf Pallawa, dengan raja termasyhurnya, Purnawarman.",
+   "region": "Bogor, Bekasi, Jakarta, Banten",
+   "tags": [
+    "Purnawarman",
+    "prasasti",
+    "Ciaruteun",
+    "Tugu",
+    "Pallawa",
+    "Citarum"
+   ],
+   "file": "sejarah/tarumanagara.txt",
+   "cover": "#5B4A2E",
+   "accent": "#E9C46A",
+   "motif": "prasasti",
+   "featured": true,
+   "notes": "Angka tahun Tarumanagara diperkirakan para ahli dari bentuk huruf prasasti, karena prasastinya tidak mencantumkan tahun.",
+   "sources": [
+    {
+     "title": "Prasasti Ciaruteun",
+     "note": "Ciampea, Bogor; jejak kaki Purnawarman"
+    },
+    {
+     "title": "Prasasti Tugu",
+     "note": "Jakarta Utara; penggalian Sungai Gomati"
+    },
+    {
+     "title": "Prasasti Kebon Kopi I",
+     "note": "Bogor; jejak kaki gajah"
+    },
+    {
+     "title": "Prasasti Cidanghiang (Lebak)",
+     "note": "Pandeglang, Banten"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/tarumanagara.su.txt",
+   "title_su": "Tarumanagara, Karajaan Pangkolotna di Tatar Sunda",
+   "summary_su": "Karajaan abad ka-5 nu dipikawanoh tina prasasti batu beraksara Pallawa, kalawan rajana nu kawentar, Purnawarman.",
+   "scene": "prasasti"
+  },
+  {
+   "id": "sunda-galuh",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Kerajaan Sunda dan Galuh",
+   "summary": "Dari prasasti Sanghyang Tapak sampai Kawali: dua pusat kekuasaan yang silih berganti dan bersatu di tatar Sunda.",
+   "region": "Jawa Barat",
+   "tags": [
+    "Sunda",
+    "Galuh",
+    "Kawali",
+    "Wastu Kancana",
+    "Sanghyang Tapak",
+    "Bubat"
+   ],
+   "file": "sejarah/sunda-galuh.txt",
+   "cover": "#3D5A4A",
+   "accent": "#E9C46A",
+   "motif": "gerbang",
+   "featured": false,
+   "notes": "Sebagian kisah, seperti peristiwa Bubat, terutama diketahui dari naskah yang ditulis jauh sesudah kejadian, sehingga rinciannya masih diperdebatkan.",
+   "sources": [
+    {
+     "title": "Prasasti Sanghyang Tapak",
+     "note": "Cibadak, Sukabumi; berangka tahun 1030 M"
+    },
+    {
+     "title": "Prasasti Kawali",
+     "note": "Astana Gede, Ciamis"
+    },
+    {
+     "title": "Naskah Carita Parahyangan",
+     "note": "naskah Sunda kuna tentang raja-raja Sunda"
+    },
+    {
+     "title": "Kidung Sunda dan Pararaton",
+     "note": "naskah yang menyinggung peristiwa Bubat"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/sunda-galuh.su.txt",
+   "title_su": "Karajaan Sunda jeung Galuh",
+   "summary_su": "Ti prasasti Sanghyang Tapak nepi ka Kawali: dua puseur kakawasaan nu silih ganti jeung ngahiji di tatar Sunda.",
+   "scene": "sungai"
+  },
+  {
+   "id": "pajajaran",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Pakuan Pajajaran dan Sri Baduga Maharaja",
+   "summary": "Masa kejayaan Kerajaan Sunda berpusat di Pakuan, perjanjian dengan Portugis, sampai keruntuhannya pada 1579.",
+   "region": "Bogor",
+   "tags": [
+    "Pakuan",
+    "Prabu Siliwangi",
+    "Batutulis",
+    "Sunda Kalapa",
+    "Portugis",
+    "Banten"
+   ],
+   "file": "sejarah/pajajaran.txt",
+   "cover": "#6B3A23",
+   "accent": "#E9C46A",
+   "motif": "prasasti",
+   "featured": true,
+   "notes": "Tokoh Prabu Siliwangi dalam cerita rakyat sering disamakan dengan Sri Baduga Maharaja, tetapi para ahli tidak sepenuhnya sepakat.",
+   "sources": [
+    {
+     "title": "Prasasti Batutulis",
+     "note": "Bogor; dibuat untuk mengenang Sri Baduga Maharaja"
+    },
+    {
+     "title": "Padrão Sunda Kalapa",
+     "note": "tugu batu perjanjian Sunda–Portugis, 1522"
+    },
+    {
+     "title": "Naskah Bujangga Manik",
+     "note": "catatan perjalanan seorang resi Sunda"
+    },
+    {
+     "title": "Carita Parahyangan",
+     "note": "naskah Sunda kuna"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/pajajaran.su.txt",
+   "title_su": "Pakuan Pajajaran jeung Sri Baduga Maharaja",
+   "summary_su": "Mangsa kajayaan Karajaan Sunda nu puseurna di Pakuan, perjangjian jeung Portugis, nepi ka runtuhna dina taun 1579.",
+   "scene": "istana"
+  },
+  {
+   "id": "aksara-sunda",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Perjalanan Aksara Sunda",
+   "summary": "Dari aksara Sunda kuna di prasasti dan naskah lontar, sampai Aksara Sunda Baku yang kini ada di ponsel kita.",
+   "region": "Jawa Barat",
+   "tags": [
+    "aksara",
+    "kaganga",
+    "naskah",
+    "lontar",
+    "Unicode",
+    "rarangkén"
+   ],
+   "file": "sejarah/aksara-sunda.txt",
+   "cover": "#1F4D3A",
+   "accent": "#E9C46A",
+   "motif": "aksara",
+   "featured": false,
+   "notes": "Bagian Belajar › Aksara di aplikasi ini memakai Aksara Sunda Baku.",
+   "sources": [
+    {
+     "title": "Prasasti Kawali",
+     "note": "contoh aksara Sunda kuna"
+    },
+    {
+     "title": "Naskah-naskah lontar Sunda kuna",
+     "note": "di antaranya Sanghyang Siksa Kandang Karesian"
+    },
+    {
+     "title": "Standar Unicode, blok Sundanese",
+     "note": "pengodean aksara Sunda untuk komputer"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/aksara-sunda.su.txt",
+   "title_su": "Lalampahan Aksara Sunda",
+   "summary_su": "Ti aksara Sunda kuna dina prasasti jeung naskah lontar, nepi ka Aksara Sunda Baku nu ayeuna aya dina telepon sélulér.",
+   "scene": "lontar"
+  },
+  {
+   "id": "imah-panggung",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Imah Panggung dan Atap Khas Sunda",
+   "summary": "Rumah tradisional Sunda berdiri di atas tiang, dan bentuk atapnya punya nama-nama yang unik: julang ngapak, parahu kumureb, dan lainnya.",
+   "region": "Jawa Barat",
+   "tags": [
+    "rumah adat",
+    "julang ngapak",
+    "Kampung Naga",
+    "arsitektur",
+    "bambu"
+   ],
+   "file": "budaya/imah-panggung.txt",
+   "cover": "#8A6A3F",
+   "accent": "#E9C46A",
+   "motif": "rumah",
+   "featured": false,
+   "notes": "Bentuk dan istilah bisa sedikit berbeda antardaerah.",
+   "sources": [
+    {
+     "title": "Kampung Naga, Tasikmalaya",
+     "note": "permukiman adat yang masih mempertahankan rumah panggung"
+    },
+    {
+     "title": "Kampung adat di Jawa Barat",
+     "note": "seperti Kampung Pulo dan kasepuhan di Banten Kidul"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/imah-panggung.su.txt",
+   "title_su": "Imah Panggung jeung Hateup Has Sunda",
+   "summary_su": "Imah tradisional Sunda ngadeg dina tihang, sarta wangun hateupna boga ngaran nu unik: julang ngapak, parahu kumureb, jeung réa-réa deui.",
+   "scene": "saung"
+  },
+  {
+   "id": "kesenian-sunda",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Angklung, Wayang Golek, dan Kesenian Sunda",
+   "summary": "Mengenal bunyi dan gerak tatar Sunda: angklung, kacapi suling, degung, wayang golek, sampai jaipongan.",
+   "region": "Jawa Barat",
+   "tags": [
+    "angklung",
+    "wayang golek",
+    "degung",
+    "kacapi",
+    "jaipongan",
+    "calung",
+    "UNESCO"
+   ],
+   "file": "budaya/kesenian-sunda.txt",
+   "cover": "#2F6A50",
+   "accent": "#E9C46A",
+   "motif": "angklung",
+   "featured": true,
+   "notes": "Angklung tercatat dalam daftar Warisan Budaya Takbenda UNESCO sejak 2010.",
+   "sources": [
+    {
+     "title": "Daftar Warisan Budaya Takbenda UNESCO",
+     "note": "angklung Indonesia, 2010"
+    },
+    {
+     "title": "Saung Angklung Udjo, Bandung",
+     "note": "pusat pertunjukan dan pembelajaran angklung"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/kesenian-sunda.su.txt",
+   "title_su": "Angklung, Wayang Golék, jeung Kasenian Sunda",
+   "summary_su": "Wawuh kana sora jeung gerak tatar Sunda: angklung, kacapi suling, degung, wayang golék, nepi ka jaipongan.",
+   "scene": "angklung"
+  },
+  {
+   "id": "seren-taun",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Seren Taun dan Rasa Syukur kepada Alam",
+   "summary": "Upacara panen yang menyerahkan tahun lama dan menyambut tahun baru, dengan padi yang diarak ke leuit, lumbung adat.",
+   "region": "Kuningan, Sukabumi, Bogor",
+   "tags": [
+    "upacara adat",
+    "padi",
+    "leuit",
+    "Cigugur",
+    "Ciptagelar",
+    "Dewi Sri"
+   ],
+   "file": "budaya/seren-taun.txt",
+   "cover": "#4F6B2F",
+   "accent": "#E9C46A",
+   "motif": "gunung",
+   "featured": false,
+   "notes": "Tata cara Seren Taun berbeda di setiap komunitas adat.",
+   "sources": [
+    {
+     "title": "Seren Taun di Cigugur, Kuningan",
+     "note": "upacara tahunan masyarakat adat setempat"
+    },
+    {
+     "title": "Kasepuhan Ciptagelar, Sukabumi",
+     "note": "komunitas adat yang menjaga tradisi padi"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/seren-taun.su.txt",
+   "title_su": "Seren Taun jeung Rasa Sukur ka Alam",
+   "summary_su": "Upacara panén nu masrahkeun taun heubeul jeung mapag taun anyar, kalawan paré nu diarak ka leuit.",
+   "scene": "sawah"
+  },
+  {
+   "id": "mundinglaya",
+   "category": "cerita",
+   "nature": "tradisi_lisan",
+   "title": "Mundinglaya Dikusumah",
+   "summary": "Putra Prabu Siliwangi yang difitnah dan dipenjara, lalu berangkat ke Jabaning Langit untuk mengambil pusaka Jimat Layang Salaka Domas.",
+   "region": "Pakuan Pajajaran",
+   "tags": [
+    "carita pantun",
+    "Prabu Siliwangi",
+    "Dewi Asri",
+    "Guriang Tujuh",
+    "Sunten Jaya",
+    "bacaan panjang"
+   ],
+   "file": "cerita/mundinglaya.txt",
+   "cover": "#6B3A23",
+   "accent": "#E9C46A",
+   "motif": "gerbang",
+   "featured": true,
+   "notes": "Carita pantun Mundinglaya dikenal dalam beberapa versi. Nama tokoh dan rincian petualangannya bisa berbeda antarjuru pantun.",
+   "sources": [
+    {
+     "title": "Tradisi lisan Sunda",
+     "note": "versi yang dikenal luas, ditulis ulang dengan kalimat sendiri"
+    },
+    {
+     "title": "Carita pantun Mundinglaya Dikusumah",
+     "note": "bentuk asli cerita dalam sastra lisan Sunda"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "cerita/mundinglaya.su.txt",
+   "title_su": "Mundinglaya Dikusumah",
+   "summary_su": "Putra Prabu Siliwangi nu dipitnah jeung dipanjara, tuluy angkat ka Jabaning Langit pikeun nyandak pusaka Jimat Layang Salaka Domas.",
+   "scene": "karaton-raja"
+  },
+  {
+   "id": "kerajaan-sunda",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Kerajaan Sunda dari Masa ke Masa",
+   "summary": "Seribu tahun sejarah tatar Sunda: dari Tarumanagara dan Purnawarman, Sunda dan Galuh, Kawali, Pakuan Pajajaran, sampai jatuhnya Pakuan pada 1579.",
+   "region": "Jawa Barat dan Banten",
+   "tags": [
+    "Tarumanagara",
+    "Galuh",
+    "Kawali",
+    "Pajajaran",
+    "Bubat",
+    "Bujangga Manik",
+    "Portugis",
+    "bacaan panjang"
+   ],
+   "file": "sejarah/kerajaan-sunda.txt",
+   "cover": "#3D5A4A",
+   "accent": "#E9C46A",
+   "motif": "prasasti",
+   "featured": true,
+   "notes": "Banyak tahun dalam bacaan ini adalah perkiraan para ahli. Sebagian peristiwa hanya diketahui dari naskah yang ditulis jauh sesudah kejadiannya.",
+   "sources": [
+    {
+     "title": "Prasasti-prasasti Tarumanagara",
+     "note": "Ciaruteun, Kebon Kopi I, Tugu, dan lainnya"
+    },
+    {
+     "title": "Prasasti Sanghyang Tapak",
+     "note": "Cibadak, Sukabumi; 1030 M"
+    },
+    {
+     "title": "Prasasti Kawali dan Batutulis",
+     "note": "Ciamis dan Bogor"
+    },
+    {
+     "title": "Carita Parahyangan dan Bujangga Manik",
+     "note": "naskah Sunda kuna"
+    },
+    {
+     "title": "Suma Oriental karya Tomé Pires",
+     "note": "catatan Portugis awal abad ke-16"
+    },
+    {
+     "title": "Padrão Sunda Kalapa",
+     "note": "tugu perjanjian Sunda–Portugis, 1522"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/kerajaan-sunda.su.txt",
+   "title_su": "Karajaan Sunda ti Mangsa ka Mangsa",
+   "summary_su": "Sarébu taun sajarah tatar Sunda: ti Tarumanagara jeung Purnawarman, Sunda jeung Galuh, Kawali, Pakuan Pajajaran, nepi ka ragragna Pakuan dina taun 1579.",
+   "scene": "gunung"
+  },
+  {
+   "id": "kampung-adat",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Sehari di Kampung Adat",
+   "summary": "Raka berlibur ke kampung adat tempat kakeknya tinggal: rumah panggung, hawu, menumbuk padi, leuit, hutan larangan, gotong royong, dan Seren Taun.",
+   "region": "Jawa Barat dan Banten",
+   "tags": [
+    "kampung adat",
+    "rumah panggung",
+    "leuit",
+    "pamali",
+    "leuweung larangan",
+    "gotong royong",
+    "bacaan panjang"
+   ],
+   "file": "budaya/kampung-adat.txt",
+   "cover": "#4F6B2F",
+   "accent": "#E9C46A",
+   "motif": "rumah",
+   "featured": true,
+   "notes": "Kampung dan tokoh dalam bacaan ini adalah gambaran umum, bukan satu kampung tertentu. Aturan setiap kampung adat bisa berbeda.",
+   "sources": [
+    {
+     "title": "Kampung Naga, Tasikmalaya",
+     "note": "kampung adat dengan rumah panggung beratap ijuk"
+    },
+    {
+     "title": "Kasepuhan Ciptagelar, Sukabumi",
+     "note": "komunitas adat yang menjaga tradisi padi dan leuit"
+    },
+    {
+     "title": "Masyarakat Baduy (Kanekes), Lebak",
+     "note": "masyarakat adat dengan aturan pikukuh"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/kampung-adat.su.txt",
+   "title_su": "Sapoé di Lembur Adat",
+   "summary_su": "Raka pakansi ka lembur adat tempat akina matuh: imah panggung, hawu, nutu paré, leuit, leuweung larangan, gotong royong, jeung Seren Taun.",
+   "scene": "fajar-palsu"
+  }
+ ]
+}

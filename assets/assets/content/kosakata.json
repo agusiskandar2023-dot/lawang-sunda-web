@@ -1,0 +1,704 @@
+{
+ "entries": [
+  {
+   "id": "wilujeng-enjing",
+   "su": "wilujeng énjing",
+   "id_meaning": "selamat pagi",
+   "register": "umum",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "Wilujeng énjing, Bu.",
+   "example_id": "Selamat pagi, Bu."
+  },
+  {
+   "id": "wilujeng-sumping",
+   "su": "wilujeng sumping",
+   "id_meaning": "selamat datang",
+   "register": "umum",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "Wilujeng sumping di Bandung.",
+   "example_id": "Selamat datang di Bandung."
+  },
+  {
+   "id": "hatur-nuhun",
+   "su": "hatur nuhun",
+   "id_meaning": "terima kasih",
+   "register": "umum",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "Hatur nuhun pisan.",
+   "example_id": "Terima kasih banyak."
+  },
+  {
+   "id": "punten",
+   "su": "punten",
+   "id_meaning": "permisi; maaf",
+   "register": "umum",
+   "topic": "Sapaan",
+   "note": "Diucapkan saat bertamu atau lewat di depan orang.",
+   "example": "Punten, badé naros.",
+   "example_id": "Permisi, mau bertanya."
+  },
+  {
+   "id": "mangga",
+   "su": "mangga",
+   "id_meaning": "silakan; mari",
+   "register": "umum",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "Mangga linggih.",
+   "example_id": "Silakan duduk."
+  },
+  {
+   "id": "kumaha-damang",
+   "su": "kumaha damang?",
+   "id_meaning": "apa kabar?",
+   "register": "lemes",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "Kumaha damang, Pa?",
+   "example_id": "Apa kabar, Pak?"
+  },
+  {
+   "id": "pangesto",
+   "su": "pangéstu",
+   "id_meaning": "baik-baik saja (jawaban atas \"kumaha damang\")",
+   "register": "lemes",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "enya",
+   "su": "enya",
+   "id_meaning": "ya",
+   "register": "loma",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "muhun",
+   "su": "muhun",
+   "id_meaning": "ya",
+   "register": "lemes",
+   "topic": "Sapaan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "dahar",
+   "su": "dahar",
+   "id_meaning": "makan",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "Hayu urang dahar heula.",
+   "example_id": "Ayo kita makan dulu."
+  },
+  {
+   "id": "tuang",
+   "su": "tuang",
+   "id_meaning": "makan",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "Untuk orang lain yang dihormati.",
+   "example": "Mangga tuang heula, Bapa.",
+   "example_id": "Silakan makan dulu, Pak."
+  },
+  {
+   "id": "neda",
+   "su": "neda",
+   "id_meaning": "makan",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "Untuk diri sendiri.",
+   "example": "Abdi nembé réngsé neda.",
+   "example_id": "Saya baru selesai makan."
+  },
+  {
+   "id": "indit",
+   "su": "indit",
+   "id_meaning": "pergi",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angkat",
+   "su": "angkat",
+   "id_meaning": "pergi",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "Untuk orang lain yang dihormati.",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "mios",
+   "su": "mios",
+   "id_meaning": "pergi",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "Untuk diri sendiri.",
+   "example": "Abdi badé mios ka pasar.",
+   "example_id": "Saya mau pergi ke pasar."
+  },
+  {
+   "id": "sare",
+   "su": "saré",
+   "id_meaning": "tidur",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "kulem",
+   "su": "kulem",
+   "id_meaning": "tidur",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "Untuk orang lain yang dihormati.",
+   "example": "Bapa nuju kulem.",
+   "example_id": "Bapak sedang tidur."
+  },
+  {
+   "id": "balik",
+   "su": "balik",
+   "id_meaning": "pulang",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "mulih",
+   "su": "mulih",
+   "id_meaning": "pulang",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "Iraha mulih ka lembur?",
+   "example_id": "Kapan pulang ke kampung?"
+  },
+  {
+   "id": "datang",
+   "su": "datang",
+   "id_meaning": "datang",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "sumping",
+   "su": "sumping",
+   "id_meaning": "datang",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "Untuk orang lain yang dihormati.",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "nempo",
+   "su": "nempo",
+   "id_meaning": "melihat",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "ningali",
+   "su": "ningali",
+   "id_meaning": "melihat",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "ngomong",
+   "su": "ngomong",
+   "id_meaning": "berbicara",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "nyarios",
+   "su": "nyarios",
+   "id_meaning": "berbicara",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "diuk",
+   "su": "diuk",
+   "id_meaning": "duduk",
+   "register": "loma",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "calik",
+   "su": "calik",
+   "id_meaning": "duduk",
+   "register": "lemes",
+   "topic": "Kegiatan",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "imah",
+   "su": "imah",
+   "id_meaning": "rumah",
+   "register": "loma",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "Imah urang deukeut ka pasar.",
+   "example_id": "Rumah kami dekat pasar."
+  },
+  {
+   "id": "bumi",
+   "su": "bumi",
+   "id_meaning": "rumah",
+   "register": "lemes",
+   "topic": "Rumah & keluarga",
+   "note": "Untuk rumah orang lain.",
+   "example": "Bumi Bapa di mana?",
+   "example_id": "Rumah Bapak di mana?"
+  },
+  {
+   "id": "rorompok",
+   "su": "rorompok",
+   "id_meaning": "rumah",
+   "register": "lemes",
+   "topic": "Rumah & keluarga",
+   "note": "Untuk rumah sendiri.",
+   "example": "Mangga mampir ka rorompok.",
+   "example_id": "Silakan mampir ke rumah saya."
+  },
+  {
+   "id": "ngaran",
+   "su": "ngaran",
+   "id_meaning": "nama",
+   "register": "loma",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "nami",
+   "su": "nami",
+   "id_meaning": "nama",
+   "register": "lemes",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "Saha namina?",
+   "example_id": "Siapa namanya?"
+  },
+  {
+   "id": "indung",
+   "su": "indung",
+   "id_meaning": "ibu",
+   "register": "umum",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "bapa",
+   "su": "bapa",
+   "id_meaning": "ayah; bapak",
+   "register": "umum",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "lanceuk",
+   "su": "lanceuk",
+   "id_meaning": "kakak",
+   "register": "umum",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "adi",
+   "su": "adi",
+   "id_meaning": "adik",
+   "register": "umum",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "duit",
+   "su": "duit",
+   "id_meaning": "uang",
+   "register": "loma",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "artos",
+   "su": "artos",
+   "id_meaning": "uang",
+   "register": "lemes",
+   "topic": "Rumah & keluarga",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "cai",
+   "su": "cai",
+   "id_meaning": "air",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "Caina hérang pisan.",
+   "example_id": "Airnya jernih sekali."
+  },
+  {
+   "id": "gunung",
+   "su": "gunung",
+   "id_meaning": "gunung",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "leuweung",
+   "su": "leuweung",
+   "id_meaning": "hutan",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "walungan",
+   "su": "walungan",
+   "id_meaning": "sungai",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "sawah",
+   "su": "sawah",
+   "id_meaning": "sawah",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "panonpoe",
+   "su": "panonpoé",
+   "id_meaning": "matahari",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "bentang",
+   "su": "béntang",
+   "id_meaning": "bintang",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "hujan",
+   "su": "hujan",
+   "id_meaning": "hujan",
+   "register": "umum",
+   "topic": "Alam",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "isuk",
+   "su": "isuk",
+   "id_meaning": "pagi",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "beurang",
+   "su": "beurang",
+   "id_meaning": "siang",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "sore",
+   "su": "soré",
+   "id_meaning": "sore",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "peuting",
+   "su": "peuting",
+   "id_meaning": "malam",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "poe",
+   "su": "poé",
+   "id_meaning": "hari",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "kamari",
+   "su": "kamari",
+   "id_meaning": "kemarin",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "isukan",
+   "su": "isukan",
+   "id_meaning": "besok",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "ayeuna",
+   "su": "ayeuna",
+   "id_meaning": "sekarang",
+   "register": "umum",
+   "topic": "Waktu",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-hiji",
+   "su": "hiji",
+   "id_meaning": "satu",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-dua",
+   "su": "dua",
+   "id_meaning": "dua",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-tilu",
+   "su": "tilu",
+   "id_meaning": "tiga",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-opat",
+   "su": "opat",
+   "id_meaning": "empat",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-lima",
+   "su": "lima",
+   "id_meaning": "lima",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-genep",
+   "su": "genep",
+   "id_meaning": "enam",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-tujuh",
+   "su": "tujuh",
+   "id_meaning": "tujuh",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-dalapan",
+   "su": "dalapan",
+   "id_meaning": "delapan",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-salapan",
+   "su": "salapan",
+   "id_meaning": "sembilan",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "angka-sapuluh",
+   "su": "sapuluh",
+   "id_meaning": "sepuluh",
+   "register": "umum",
+   "topic": "Angka",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "warna-beureum",
+   "su": "beureum",
+   "id_meaning": "merah",
+   "register": "umum",
+   "topic": "Warna",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "warna-bodas",
+   "su": "bodas",
+   "id_meaning": "putih",
+   "register": "umum",
+   "topic": "Warna",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "warna-hideung",
+   "su": "hideung",
+   "id_meaning": "hitam",
+   "register": "umum",
+   "topic": "Warna",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "warna-koneng",
+   "su": "konéng",
+   "id_meaning": "kuning",
+   "register": "umum",
+   "topic": "Warna",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "warna-hejo",
+   "su": "héjo",
+   "id_meaning": "hijau",
+   "register": "umum",
+   "topic": "Warna",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  },
+  {
+   "id": "warna-bulao",
+   "su": "bulao",
+   "id_meaning": "biru",
+   "register": "umum",
+   "topic": "Warna",
+   "note": "",
+   "example": "",
+   "example_id": ""
+  }
+ ]
+}

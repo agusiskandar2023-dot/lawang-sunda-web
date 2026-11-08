@@ -645,6 +645,665 @@
    "title_su": "Sapoé di Lembur Adat",
    "summary_su": "Raka pakansi ka lembur adat tempat akina matuh: imah panggung, hawu, nutu paré, leuit, leuweung larangan, gotong royong, jeung Seren Taun.",
    "scene": "fajar-palsu"
+  },
+  {
+   "id": "batutulis",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Prasasti Batutulis, Kenangan untuk Sri Baduga",
+   "summary": "Batu bertulis di Bogor yang dibuat Prabu Surawisesa sekitar 1533 untuk mengenang ayahnya, Sri Baduga Maharaja, raja Pakuan Pajajaran.",
+   "region": "Bogor",
+   "tags": [
+    "prasasti",
+    "Pakuan",
+    "Sri Baduga",
+    "Surawisesa",
+    "candrasangkala"
+   ],
+   "file": "sejarah/batutulis.txt",
+   "cover": "#5B4A2E",
+   "accent": "#E9C46A",
+   "motif": "prasasti",
+   "featured": true,
+   "notes": "Pembacaan dan tafsiran angka tahun prasasti dapat sedikit berbeda di antara para ahli.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/batutulis.su.txt",
+   "title_su": "Prasasti Batutulis, Pangéling pikeun Sri Baduga",
+   "summary_su": "Batu tinulis di Bogor nu dijieun ku Prabu Surawisesa kira-kira taun 1533 pikeun miéling ramana, Sri Baduga Maharaja, raja Pakuan Pajajaran.",
+   "scene": "prasasti"
+  },
+  {
+   "id": "perang-bubat",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Perang Bubat: Duka di Lapangan Bubat",
+   "summary": "Rencana pernikahan putri Sunda Dyah Pitaloka dengan raja Majapahit berakhir dengan peristiwa tragis pada tahun 1357.",
+   "region": "Kawali, Majapahit",
+   "tags": [
+    "Majapahit",
+    "Dyah Pitaloka",
+    "Linggabuana",
+    "Gajah Mada",
+    "Kidung Sunda"
+   ],
+   "file": "sejarah/perang-bubat.txt",
+   "cover": "#6B3A23",
+   "accent": "#E9C46A",
+   "motif": "gerbang",
+   "featured": false,
+   "notes": "Kisah ini bersumber dari naskah seperti Kidung Sunda dan Pararaton; rinciannya berbeda-beda di antara sumber.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/perang-bubat.su.txt",
+   "title_su": "Perang Bubat: Kasedih di Tegal Bubat",
+   "summary_su": "Rencana kawinan putri Sunda Dyah Pitaloka jeung raja Majapahit réngsé ku kajadian nu matak nalangsa dina taun 1357.",
+   "scene": "karaton-raja"
+  },
+  {
+   "id": "sumedang-larang",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Sumedang Larang dan Mahkota Binokasih",
+   "summary": "Kerajaan di Sumedang yang meneruskan tradisi Pajajaran, menerima Mahkota Binokasih, dan melahirkan tokoh seperti Prabu Geusan Ulun dan Pangeran Kornel.",
+   "region": "Sumedang",
+   "tags": [
+    "Geusan Ulun",
+    "Binokasih",
+    "Kandaga Lante",
+    "Pangeran Kornel",
+    "Cadas Pangeran"
+   ],
+   "file": "sejarah/sumedang-larang.txt",
+   "cover": "#3D5A4A",
+   "accent": "#E9C46A",
+   "motif": "gunung",
+   "featured": false,
+   "notes": "Sebagian kisah, seperti asal nama dan peristiwa Kandaga Lante, berasal dari tradisi lisan dan babad.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/sumedang-larang.su.txt",
+   "title_su": "Sumedang Larang jeung Makuta Binokasih",
+   "summary_su": "Karajaan di Sumedang nu neruskeun tradisi Pajajaran, narima Makuta Binokasih, sarta ngalahirkeun tokoh saperti Prabu Geusan Ulun jeung Pangéran Kornél.",
+   "scene": "gunung"
+  },
+  {
+   "id": "cirebon",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Cirebon, Kota Pertemuan Budaya",
+   "summary": "Dari pedukuhan nelayan menjadi kesultanan: kisah Pangeran Cakrabuana, Sunan Gunung Jati, keraton-keraton, dan batik Megamendung.",
+   "region": "Cirebon",
+   "tags": [
+    "Sunan Gunung Jati",
+    "Cakrabuana",
+    "Kasepuhan",
+    "Megamendung",
+    "Wali Songo"
+   ],
+   "file": "sejarah/cirebon.txt",
+   "cover": "#2F6A50",
+   "accent": "#E9C46A",
+   "motif": "gerbang",
+   "featured": false,
+   "notes": "Silsilah tokoh awal Cirebon terutama dikenal dari naskah tradisi seperti Carita Purwaka Caruban Nagari.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/cirebon.su.txt",
+   "title_su": "Cirebon, Kota Patepungna Budaya",
+   "summary_su": "Ti padukuhan pamayang jadi kasultanan: carita Pangéran Cakrabuana, Sunan Gunung Jati, karaton-karaton, jeung batik Megamendung.",
+   "scene": "istana"
+  },
+  {
+   "id": "banten",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Kesultanan Banten, Pelabuhan Lada",
+   "summary": "Pelabuhan di ujung barat Jawa yang menjadi kesultanan makmur, mencapai kejayaan di masa Sultan Ageng Tirtayasa.",
+   "region": "Banten",
+   "tags": [
+    "Maulana Hasanuddin",
+    "Sultan Ageng Tirtayasa",
+    "Banten Lama",
+    "lada",
+    "VOC"
+   ],
+   "file": "sejarah/banten.txt",
+   "cover": "#7E5A2E",
+   "accent": "#E9C46A",
+   "motif": "gerbang",
+   "featured": false,
+   "notes": "Angka tahun berdirinya kesultanan berbeda sedikit di antara sumber.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/banten.su.txt",
+   "title_su": "Kasultanan Banten, Palabuan Lada",
+   "summary_su": "Palabuan di tungtung kulon Jawa nu jadi kasultanan makmur, ngahontal kajayaan dina jaman Sultan Ageng Tirtayasa.",
+   "scene": "sungai"
+  },
+  {
+   "id": "bujangga-manik",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Bujangga Manik, Pengelana dari Pakuan",
+   "summary": "Pangeran Sunda yang menjadi resi dan berjalan kaki mengelilingi Jawa sampai Bali pada abad ke-15, lalu menuliskan perjalanannya di daun lontar.",
+   "region": "Pakuan, Jawa, Bali",
+   "tags": [
+    "naskah lontar",
+    "Oxford",
+    "Bodleian",
+    "Noorduyn",
+    "geografi"
+   ],
+   "file": "sejarah/bujangga-manik.txt",
+   "cover": "#1F4D3A",
+   "accent": "#E9C46A",
+   "motif": "aksara",
+   "featured": true,
+   "notes": "Naskah aslinya tersimpan di Perpustakaan Bodleian, Oxford.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/bujangga-manik.su.txt",
+   "title_su": "Bujangga Manik, Nu Ngumbara ti Pakuan",
+   "summary_su": "Pangéran Sunda nu jadi resi sarta leumpang ngurilingan Jawa nepi ka Bali dina abad ka-15, tuluy nulis lalampahanana dina daun lontar.",
+   "scene": "lontar"
+  },
+  {
+   "id": "sejarah-bandung",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Bandung dari Danau Purba ke Kota Kembang",
+   "summary": "Cekungan bekas danau purba, pemindahan pusat kabupaten pada 1810, kota perkebunan, sampai Bandung masa kini.",
+   "region": "Bandung",
+   "tags": [
+    "Danau Bandung Purba",
+    "Dayeuhkolot",
+    "Wiranatakusumah",
+    "Gedung Sate",
+    "Kota Kembang"
+   ],
+   "file": "sejarah/sejarah-bandung.txt",
+   "cover": "#2F6A50",
+   "accent": "#E9C46A",
+   "motif": "danau",
+   "featured": true,
+   "notes": "Penjelasan danau purba berasal dari penelitian geologi; legenda Sangkuriang adalah cerita rakyat.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/sejarah-bandung.su.txt",
+   "title_su": "Bandung ti Situ Purba ka Kota Kembang",
+   "summary_su": "Legok urut situ purba, pindahna puseur kabupatén dina taun 1810, kota perkebunan, nepi ka Bandung kiwari.",
+   "scene": "danau"
+  },
+  {
+   "id": "konferensi-asia-afrika",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Konferensi Asia Afrika 1955",
+   "summary": "Pertemuan para pemimpin 29 negara Asia dan Afrika di Gedung Merdeka, Bandung, yang melahirkan Dasasila Bandung.",
+   "region": "Bandung",
+   "tags": [
+    "Gedung Merdeka",
+    "Dasasila Bandung",
+    "Soekarno",
+    "Langkah Bersejarah",
+    "Non-Blok"
+   ],
+   "file": "sejarah/konferensi-asia-afrika.txt",
+   "cover": "#3D5A4A",
+   "accent": "#E9C46A",
+   "motif": "prasasti",
+   "featured": false,
+   "notes": "Museum Konferensi Asia Afrika di Gedung Merdeka menyimpan dokumentasi peristiwa ini.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/konferensi-asia-afrika.su.txt",
+   "title_su": "Konperénsi Asia Afrika 1955",
+   "summary_su": "Pasamoan para pamingpin 29 nagara Asia jeung Afrika di Gedong Merdéka, Bandung, nu ngalahirkeun Dasasila Bandung.",
+   "scene": "istana"
+  },
+  {
+   "id": "bandung-lautan-api",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Bandung Lautan Api 1946",
+   "summary": "Pada 24 Maret 1946 rakyat dan pejuang mengosongkan dan membakar Bandung agar tidak dipakai sebagai markas lawan.",
+   "region": "Bandung",
+   "tags": [
+    "Mohammad Toha",
+    "Nasution",
+    "Halo-Halo Bandung",
+    "Tegallega",
+    "kemerdekaan"
+   ],
+   "file": "sejarah/bandung-lautan-api.txt",
+   "cover": "#7E3519",
+   "accent": "#E9C46A",
+   "motif": "gunung",
+   "featured": false,
+   "notes": "Rincian peristiwa, seperti jumlah pengungsi, berbeda di antara sumber.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/bandung-lautan-api.su.txt",
+   "title_su": "Bandung Lautan Api 1946",
+   "summary_su": "Dina 24 Maret 1946 rahayat jeung pajoang ngosongkeun jeung ngaduruk Bandung sangkan teu dipaké markas musuh.",
+   "scene": "malam"
+  },
+  {
+   "id": "dewi-sartika",
+   "category": "sejarah",
+   "nature": "fakta",
+   "title": "Dewi Sartika dan Sakola Istri",
+   "summary": "Perempuan Sunda yang mendirikan Sakola Istri pada 1904 dan memperjuangkan pendidikan untuk anak perempuan.",
+   "region": "Bandung",
+   "tags": [
+    "Pahlawan Nasional",
+    "Sakola Istri",
+    "pendidikan",
+    "Cicalengka",
+    "perempuan"
+   ],
+   "file": "sejarah/dewi-sartika.txt",
+   "cover": "#9A4422",
+   "accent": "#E9C46A",
+   "motif": "rumah",
+   "featured": true,
+   "notes": "Ditetapkan sebagai Pahlawan Nasional pada tahun 1966.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "sejarah/dewi-sartika.su.txt",
+   "title_su": "Dewi Sartika jeung Sakola Istri",
+   "summary_su": "Awéwé Sunda nu ngadegkeun Sakola Istri dina taun 1904 sarta merjoangkeun atikan pikeun budak awéwé.",
+   "scene": "saung-baca"
+  },
+  {
+   "id": "wayang-golek",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Wayang Golek, Boneka Kayu Bercerita",
+   "summary": "Mengenal wayang golek: dalang, nayaga, sinden, lakon Mahabharata dan Ramayana, sampai si Cepot yang jenaka.",
+   "region": "Tatar Sunda",
+   "tags": [
+    "dalang",
+    "Cepot",
+    "Giriharja",
+    "gamelan salendro",
+    "punakawan"
+   ],
+   "file": "budaya/wayang-golek.txt",
+   "cover": "#6B3A23",
+   "accent": "#E9C46A",
+   "motif": "angklung",
+   "featured": true,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/wayang-golek.su.txt",
+   "title_su": "Wayang Golék, Bonéka Kai nu Nyarita",
+   "summary_su": "Wawuh kana wayang golék: dalang, nayaga, sinden, lalakon Mahabharata jeung Ramayana, nepi ka si Cépot nu lucu.",
+   "scene": "karaton-raja"
+  },
+  {
+   "id": "jaipongan",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Jaipongan, Tari yang Penuh Semangat",
+   "summary": "Tari pergaulan Sunda ciptaan Gugum Gumbira yang lahir dari ketuk tilu, pencak silat, dan topeng banjet.",
+   "region": "Bandung, Karawang",
+   "tags": [
+    "Gugum Gumbira",
+    "kendang",
+    "ketuk tilu",
+    "sinden",
+    "tari"
+   ],
+   "file": "budaya/jaipongan.txt",
+   "cover": "#B03A5B",
+   "accent": "#E9C46A",
+   "motif": "angklung",
+   "featured": false,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/jaipongan.su.txt",
+   "title_su": "Jaipongan, Tarian nu Pinuh Sumanget",
+   "summary_su": "Tari pergaulan Sunda ciptaan Gugum Gumbira nu lahir tina ketuk tilu, penca silat, jeung topéng banjét.",
+   "scene": "mapag-panganten"
+  },
+  {
+   "id": "batik-sunda",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Batik Sunda: Garutan, Tasik, dan Megamendung",
+   "summary": "Ragam batik Jawa Barat, cara membuat batik tulis, dan makna menghargai kerja para pembatik.",
+   "region": "Garut, Tasikmalaya, Cirebon",
+   "tags": [
+    "batik",
+    "Garutan",
+    "Megamendung",
+    "Trusmi",
+    "canting"
+   ],
+   "file": "budaya/batik-sunda.txt",
+   "cover": "#2F4A6B",
+   "accent": "#E9C46A",
+   "motif": "rumah",
+   "featured": false,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/batik-sunda.su.txt",
+   "title_su": "Batik Sunda: Garutan, Tasik, jeung Megamendung",
+   "summary_su": "Rupa-rupa batik Jawa Barat, cara nyieun batik tulis, jeung harti ngajénan gawé para pambatik.",
+   "scene": "dayang-tenun"
+  },
+  {
+   "id": "ngaliwet",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Ngaliwet: Makan Bersama ala Sunda",
+   "summary": "Nasi liwet, lalab, sambal, dan lauk khas Sunda yang disantap bersama di atas daun pisang.",
+   "region": "Tatar Sunda",
+   "tags": [
+    "nasi liwet",
+    "lalab",
+    "sambal",
+    "botram",
+    "kuliner"
+   ],
+   "file": "budaya/ngaliwet.txt",
+   "cover": "#4F6B2F",
+   "accent": "#E9C46A",
+   "motif": "rumah",
+   "featured": true,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/ngaliwet.su.txt",
+   "title_su": "Ngaliwet: Dahar Babarengan Cara Sunda",
+   "summary_su": "Sangu liwet, lalab, sambel, jeung deungeun sangu has Sunda nu didahar babarengan dina daun cau.",
+   "scene": "saung"
+  },
+  {
+   "id": "pencak-silat-sunda",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Pencak Silat Sunda: Cimande dan Cikalong",
+   "summary": "Seni bela diri yang indah: aliran Cimande dan Cikalong, ibing penca, dan tata krama para pesilat.",
+   "region": "Bogor, Cianjur",
+   "tags": [
+    "Cimande",
+    "Cikalong",
+    "ibing penca",
+    "UNESCO",
+    "maenpo"
+   ],
+   "file": "budaya/pencak-silat-sunda.txt",
+   "cover": "#5B3A1E",
+   "accent": "#E9C46A",
+   "motif": "hutan",
+   "featured": false,
+   "notes": "Asal-usul aliran pencak silat banyak dikenal dari tradisi lisan perguruan.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/pencak-silat-sunda.su.txt",
+   "title_su": "Penca Silat Sunda: Cimande jeung Cikalong",
+   "summary_su": "Seni béla diri nu éndah: aliran Cimande jeung Cikalong, ibing penca, jeung tatakrama para pamaén silat.",
+   "scene": "sangkuriang-moro"
+  },
+  {
+   "id": "undak-usuk-basa",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Undak-Usuk Basa: Sopan Santun dalam Bahasa Sunda",
+   "summary": "Mengenal basa loma dan basa lemes, kata untuk orang lain dan untuk diri sendiri, serta tips belajarnya.",
+   "region": "Tatar Sunda",
+   "tags": [
+    "basa lemes",
+    "basa loma",
+    "tatakrama basa",
+    "bahasa Sunda"
+   ],
+   "file": "budaya/undak-usuk-basa.txt",
+   "cover": "#1F4D3A",
+   "accent": "#E9C46A",
+   "motif": "aksara",
+   "featured": true,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/undak-usuk-basa.su.txt",
+   "title_su": "Undak-Usuk Basa: Sopan Santun dina Basa Sunda",
+   "summary_su": "Wawuh kana basa loma jeung basa lemes, kecap pikeun batur jeung pikeun diri sorangan, sarta tips diajarna.",
+   "scene": "mapag-panganten"
+  },
+  {
+   "id": "kampung-naga",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Kampung Naga, Setia pada Adat",
+   "summary": "Kampung adat di lembah Ciwulan, Tasikmalaya, dengan rumah seragam, hutan larangan, dan upacara Hajat Sasih.",
+   "region": "Tasikmalaya",
+   "tags": [
+    "kampung adat",
+    "Hajat Sasih",
+    "pamali",
+    "Ciwulan",
+    "ijuk"
+   ],
+   "file": "budaya/kampung-naga.txt",
+   "cover": "#4F6B2F",
+   "accent": "#E9C46A",
+   "motif": "rumah",
+   "featured": false,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/kampung-naga.su.txt",
+   "title_su": "Kampung Naga, Satia kana Adat",
+   "summary_su": "Kampung adat di lebak Ciwulan, Tasikmalaya, kalawan imah saragam, leuweung larangan, jeung upacara Hajat Sasih.",
+   "scene": "saung"
+  },
+  {
+   "id": "baduy",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Urang Kanekes (Baduy), Penjaga Alam",
+   "summary": "Masyarakat adat di Pegunungan Kendeng yang hidup sederhana, berladang di huma, dan memegang pikukuh leluhur.",
+   "region": "Lebak, Banten",
+   "tags": [
+    "Kanekes",
+    "Baduy Dalam",
+    "Baduy Luar",
+    "pikukuh",
+    "Seba"
+   ],
+   "file": "budaya/baduy.txt",
+   "cover": "#2B3A2B",
+   "accent": "#E9C46A",
+   "motif": "hutan",
+   "featured": false,
+   "notes": "Aturan berkunjung dapat berubah; ikuti arahan warga dan pemandu setempat.",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/baduy.su.txt",
+   "title_su": "Urang Kanekes (Baduy), Pangjaga Alam",
+   "summary_su": "Masarakat adat di Pagunungan Kendeng nu hirup basajan, ngahuma, jeung nyekel pikukuh karuhun.",
+   "scene": "leuweung"
+  },
+  {
+   "id": "nyangku-panjalu",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Nyangku, Membersihkan Pusaka Panjalu",
+   "summary": "Upacara tahunan di Panjalu, Ciamis, untuk mencuci pusaka peninggalan raja dan membersihkan hati.",
+   "region": "Panjalu, Ciamis",
+   "tags": [
+    "upacara adat",
+    "Situ Lengkong",
+    "Borosngora",
+    "pusaka",
+    "Maulud"
+   ],
+   "file": "budaya/nyangku-panjalu.txt",
+   "cover": "#2F6A50",
+   "accent": "#E9C46A",
+   "motif": "danau",
+   "featured": false,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/nyangku-panjalu.su.txt",
+   "title_su": "Nyangku, Ngumbah Pusaka Panjalu",
+   "summary_su": "Upacara taunan di Panjalu, Ciamis, pikeun ngumbah pusaka titinggal raja jeung ngabersihan haté.",
+   "scene": "danau"
+  },
+  {
+   "id": "tembang-cianjuran",
+   "category": "budaya",
+   "nature": "pengetahuan",
+   "title": "Tembang Cianjuran dan Kacapi Suling",
+   "summary": "Seni vokal Sunda yang halus dari pendopo Cianjur, diiringi kacapi indung, kacapi rincik, dan suling.",
+   "region": "Cianjur",
+   "tags": [
+    "mamaos",
+    "kacapi",
+    "suling",
+    "Dalem Pancaniti",
+    "panambih"
+   ],
+   "file": "budaya/tembang-cianjuran.txt",
+   "cover": "#5B4A2E",
+   "accent": "#E9C46A",
+   "motif": "angklung",
+   "featured": false,
+   "notes": "",
+   "sources": [
+    {
+     "title": "Rangkuman berbagai sumber",
+     "note": "buku sejarah dan budaya, situs resmi, dan tradisi lisan; ditulis ulang dengan kalimat sendiri"
+    }
+   ],
+   "version": 1,
+   "updated": "2026-11-01",
+   "fileSu": "budaya/tembang-cianjuran.su.txt",
+   "title_su": "Tembang Cianjuran jeung Kacapi Suling",
+   "summary_su": "Seni sora Sunda nu lemes ti pendopo Cianjur, dibarengan ku kacapi indung, kacapi rincik, jeung suling.",
+   "scene": "angklung"
   }
  ]
 }

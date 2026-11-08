@@ -97044,7 +97044,7 @@ A.OW.prototype={
 H(a){return A.vS(null,B.v,A.lT(!0,A.aba(new A.afz()),!1,B.ab,!0),null)}}
 A.afz.prototype={
 $2(a,b){var s=null,r=A.ae("Lawang Sunda",s,s,s,s,A.fY(30,B.j,s,B.au),B.aN,s,s),q=A.ae("Gerbang budaya Sunda di genggaman",s,s,s,s,A.aw(14,B.p5,s,s,B.l),B.aN,s,s),p=A.aIi(B.ag,B.ak,s,s,s,s)
-return A.aEy(new A.en(new A.aa(0,1/0,b.d-52,1/0),A.d_(A.b([B.Fp,B.c9,r,B.dV,q,B.js,B.pD,B.jq,A.aIg(A.RB(A.cj(A.b([A.cj(s,s,s,s,s,s,s,s,s,A.aw(16,B.ak,s,s,B.E),"Lanjut"),A.cj(s,s,s,s,s,s,s,s,s,A.aw(16,B.ak,s,s,B.ap),"  \xb7  Teraskeun")],t.VO),s,s,s,s,s,s,s,s,s,s),s,s),new A.afy(a),p),B.c9,A.ae("Created by KangAIs \xb7 versi 0.1.27",s,s,s,s,A.aw(12,B.p5,s,s,B.l),B.aN,s,s)],t.p),B.c3,B.C,B.I),s),s,B.at,B.JR,s,B.a2)},
+return A.aEy(new A.en(new A.aa(0,1/0,b.d-52,1/0),A.d_(A.b([B.Fp,B.c9,r,B.dV,q,B.js,B.pD,B.jq,A.aIg(A.RB(A.cj(A.b([A.cj(s,s,s,s,s,s,s,s,s,A.aw(16,B.ak,s,s,B.E),"Lanjut"),A.cj(s,s,s,s,s,s,s,s,s,A.aw(16,B.ak,s,s,B.ap),"  \xb7  Teraskeun")],t.VO),s,s,s,s,s,s,s,s,s,s),s,s),new A.afy(a),p),B.c9,A.ae("Created by KangAIs \xb7 versi 0.1.29",s,s,s,s,A.aw(12,B.p5,s,s,B.l),B.aN,s,s)],t.p),B.c3,B.C,B.I),s),s,B.at,B.JR,s,B.a2)},
 $S:607}
 A.afy.prototype={
 $0(){var s=A.et(this.a,!1),r=A.qq(new A.afx(),null,t.z),q=A.aFb(r,B.nL,!1,null),p=s.e
@@ -97095,7 +97095,7 @@ q=A.ae('Jika "Hapus animasi" aktif di pengaturan aksesibilitas Android, halaman 
 p=t.N
 p=A.d_(A.b([A.ae("Bahasa bacaan bawaan",g,g,g,g,A.aw(15,B.ak,g,g,B.E),g,g,g),B.bs,A.aEv(new A.afG(f),B.qM,A.bZ([f.r],p),!1,p),B.bM,A.ae("Bisa diganti kapan saja lewat tombol ID \u2192 SU di halaman baca.",g,g,g,g,A.aw(12,B.U,1.4,g,B.l),g,g,g)],c),B.ao,B.C,B.I)
 o=A.ep(A.d_(A.b([A.ae("Konten online",g,g,g,g,A.aw(15,B.ak,g,g,B.E),g,g,g),B.jt,A.ae(f.z,g,g,g,g,A.aw(12.5,B.U,1.4,g,B.l),g,g,g)],c),B.ao,B.C,B.I),1)
-return A.kg(A.b([d,B.c9,b,B.c9,new A.fs(s,B.d7,g,g),B.c9,new A.fs(r,B.JW,g,g),B.bM,new A.b9(B.d8,q,g),B.c9,new A.fs(p,B.d7,g,g),B.c9,new A.fs(A.d9(A.b([B.KS,B.BV,o,f.Q?B.SR:A.jf(g,g,g,B.L4,g,g,new A.afH(f,a),g,g,g,"Perbarui konten sekarang")],c),B.a4,B.C,B.I,0),B.d7,g,g),B.c9,new A.fs(A.d_(A.b([A.abg(!1,g,g,g,!0,g,g,g,!0,g,B.L8,g,g,g,g,new A.afI(a),!1,g,g,g,g,g,g,A.ae("Keterangan sumber",g,g,g,g,A.aw(14,B.ak,g,g,B.au),g,g,g),g,B.m_,g),B.pH,A.abg(!1,g,g,g,!0,g,g,g,!0,g,B.L_,g,g,g,g,new A.afJ(this,a),!1,g,g,g,g,g,g,A.ae("Kirim koreksi",g,g,g,g,A.aw(14,B.ak,g,g,B.au),g,g,g),g,B.m_,g)],c),B.a4,B.C,B.I),B.ab,g,g),B.js,A.ae("Lawang Sunda \xb7 versi 0.1.27 \xb7 Created by KangAIs",g,g,g,g,A.aw(12,B.U,g,g,B.l),B.aN,g,g)],c),B.ie,B.a2)},
+return A.kg(A.b([d,B.c9,b,B.c9,new A.fs(s,B.d7,g,g),B.c9,new A.fs(r,B.JW,g,g),B.bM,new A.b9(B.d8,q,g),B.c9,new A.fs(p,B.d7,g,g),B.c9,new A.fs(A.d9(A.b([B.KS,B.BV,o,f.Q?B.SR:A.jf(g,g,g,B.L4,g,g,new A.afH(f,a),g,g,g,"Perbarui konten sekarang")],c),B.a4,B.C,B.I,0),B.d7,g,g),B.c9,new A.fs(A.d_(A.b([A.abg(!1,g,g,g,!0,g,g,g,!0,g,B.L8,g,g,g,g,new A.afI(a),!1,g,g,g,g,g,g,A.ae("Keterangan sumber",g,g,g,g,A.aw(14,B.ak,g,g,B.au),g,g,g),g,B.m_,g),B.pH,A.abg(!1,g,g,g,!0,g,g,g,!0,g,B.L_,g,g,g,g,new A.afJ(this,a),!1,g,g,g,g,g,g,A.ae("Kirim koreksi",g,g,g,g,A.aw(14,B.ak,g,g,B.au),g,g,g),g,B.m_,g)],c),B.a4,B.C,B.I),B.ab,g,g),B.js,A.ae("Lawang Sunda \xb7 versi 0.1.29 \xb7 Created by KangAIs",g,g,g,g,A.aw(12,B.U,g,g,B.l),B.aN,g,g)],c),B.ie,B.a2)},
 ak6(a){A.b23(new A.afC(a),a,t.H)}}
 A.afE.prototype={
 $0(){var s=this.a,r=this.b.a
@@ -97156,7 +97156,7 @@ o=o?2:1
 return A.fl(!1,B.X,!0,r,A.kb(!1,A.dR(12),!0,A.dK(A.fE(A.ae(s.c,r,r,r,r,A.aw(14,q.c,r,r,B.au),r,r,r),r,r),48,r),r,!0,r,r,r,r,r,r,r,r,s.f,r,r,r,r,r,r,r),B.D,q.a,0,r,r,new A.cu(p,new A.aO(n,o,B.r,-1)),r,r,B.bS)}}
 A.y3.prototype={
 H(a){var s=null
-return A.vS(A.aD0(s,B.a18,s),s,A.kg(A.b([B.pD,B.cq,new A.fs(A.ae("Semua cerita dan artikel di Lawang Sunda ditulis ulang oleh Tim Lawang Sunda dengan kalimat sendiri, dalam bahasa Indonesia dan bahasa Sunda, berdasarkan pengetahuan umum tentang sejarah, budaya, dan tradisi lisan Sunda. Tidak ada teks dari buku atau situs lain yang disalin. Rujukan yang dicantumkan di tiap bacaan adalah bahan untuk memeriksa dan mendalami isinya. Konten baru dapat ditambahkan ke database tanpa memperbarui aplikasi.",s,s,s,s,A.aw(14,B.cB,1.5,s,B.l),s,s,s),B.d7,s,s),B.jq,B.Fr,B.bs,A.ae("Lawang Sunda \xb7 versi 0.1.27\nCreated by KangAIs",s,s,s,s,A.aw(12.5,B.U,1.5,s,B.l),B.aN,s,s)],t.p),B.id,B.a2),s)}}
+return A.vS(A.aD0(s,B.a18,s),s,A.kg(A.b([B.pD,B.cq,new A.fs(A.ae("Semua cerita dan artikel di Lawang Sunda ditulis ulang oleh Tim Lawang Sunda dengan kalimat sendiri, dalam bahasa Indonesia dan bahasa Sunda, berdasarkan pengetahuan umum tentang sejarah, budaya, dan tradisi lisan Sunda. Tidak ada teks dari buku atau situs lain yang disalin. Rujukan yang dicantumkan di tiap bacaan adalah bahan untuk memeriksa dan mendalami isinya. Konten baru dapat ditambahkan ke database tanpa memperbarui aplikasi.",s,s,s,s,A.aw(14,B.cB,1.5,s,B.l),s,s,s),B.d7,s,s),B.jq,B.Fr,B.bs,A.ae("Lawang Sunda \xb7 versi 0.1.29\nCreated by KangAIs",s,s,s,s,A.aw(12.5,B.U,1.5,s,B.l),B.aN,s,s)],t.p),B.id,B.a2),s)}}
 A.RA.prototype={
 H(a){var s,r,q,p,o,n,m,l,k,j,i=null,h=a.aa(t.T).f,g=h.a,f=g.a,e=A.a_(f).i("aq<1>"),d=A.X(new A.aq(f,new A.amD(h),e),e.i("A.E"))
 g=g.b
